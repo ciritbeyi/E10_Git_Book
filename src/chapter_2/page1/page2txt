@@ -1,0 +1,20 @@
+What is Git
+Git is a Version Control System. It is local software installed on your computer for keeping track of changes for files and folders.
+
+What is GitHub
+GitHub is a platform. Github.com is an online hosting platform for git repositories with lots of collaboration features
+
+Git terms – Repository
+Repository : It's just a folder that git keeps track of changes
+- Local Repository: The repository on your computer (hidden .git folder)
+	(For each folder we will have a local  Repository)
+- Remote Repository: The repository in [GitHub.com](http://github.com)
+
+Git terms – Commit
+Commit : List of changes you saved into your local git repository
+- the changes you made
+- the author of this commit
+- the comment to describe what has changed : `commit message`
+
+page 2
+text
